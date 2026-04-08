@@ -13,9 +13,9 @@ LSPatch:
 modules:
   # --- 预设模块 ---
   # 将值设为 true 来启用模块，设为 false 则禁用
-  QAuxiliary: true
-  XAutoDaily: true
-  TSBattery: true
+  QAuxiliary: false
+  XAutoDaily: false
+  TSBattery: false
   QQCleaner: false
 
   # --- 自定义模块 ---
